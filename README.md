@@ -7,8 +7,8 @@
 
 <pre>
 @font-face {
-    font-family: 'Netmarble';
-    font-weight: 300;
+    font-family: 'RidiBatang';
+    font-weight: normal;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/RidiBatang.eot');
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/ridi/RidiBatang.eot?#iefix') format('embedded-opentype'),
